@@ -8,6 +8,10 @@ blogApp.controller("mainCtrl", ['$scope', function($scope){
 		{
 			"title" : "First Blog",
 			"content" : "This is my first blog"
+		},
+		{
+			"title" : "Analytics In Gaming",
+			"content" : "Go Google It First."
 		}
 	];
 }]);
