@@ -8,8 +8,8 @@ blogApp.controller("mainCtrl", ['$scope', function($scope){
 		{
 			"title" : "First trial”,
 			"content" : “Hope it comes out well”
-		}
-		,{
+		},
+		{
 			"title" : "First Blog",
 			"content" : "This is my first blog"
 		},
