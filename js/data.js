@@ -6,8 +6,8 @@ blogApp.controller("mainCtrl", ['$scope', function($scope){
 
 	$scope.blogs = [
 		{
-			"title" : "First trial”,
-			"content" : “Hope it comes out well”
+			"title" : "First trial",
+			"content" : "Hope it comes out well"
 		},
 		{
 			"title" : "First Blog",
